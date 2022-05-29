@@ -12,7 +12,7 @@ body {
 }
 .btn{
   display: inline-block;
-  padding:.8rem 3rem;
+  padding:.8rem 1.8rem;
   border:.2rem solid #ff3838;
   color: #ff3838;
   cursor: pointer;
